@@ -1,0 +1,25 @@
+{"amountTransaction": {
+   "endUserId": "tel:1234",
+   "paymentAmount":    {
+      "chargingInformation":       {
+         "description": ["chargeAmount"],
+         "currency": "USD",
+         "amount": 2000,
+         "code": ""
+      },
+      "totalAmountCharged": 2000,
+      "chargingMetaData":       {
+         "onBehalfOf": "Example Games Inc",
+         "purchaseCategoryCode": "Game",
+         "channel": "",
+         "taxAmount": 0,
+         "mandateId": "",
+         "serviceId": "",
+         "productId": ""
+      }
+   },
+   "transactionOperationStatus": "Charged",
+   "referenceCode": "REF-12345",
+   "clientCorrelator": "",
+   "resourceURL": "http://ocsg.optaresolutions.com:8001/oneapi/1/payment/tel:1234/transactions/amount/%3B1399916814%3B1-1400046283723"
+}}
