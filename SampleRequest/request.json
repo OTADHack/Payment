@@ -1,0 +1,9 @@
+ {
+  "charge": {
+    "description": "Generic Charge",
+    "amount": "100",
+    "currency": "USD"
+  },
+  "endUserIdentifier": "tel:1234",
+  "referenceCode": "REF-12345"
+}
