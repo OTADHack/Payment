@@ -1,9 +1,21 @@
- {
-  "charge": {
-    "description": "Generic Charge",
-    "amount": "100",
-    "currency": "USD"
-  },
-  "endUserIdentifier": "tel:1234",
-  "referenceCode": "REF-12345"
+{
+   "amountTransaction":{
+      "endUserId":"tel:1234",
+      "paymentAmount":{
+         "chargingInformation":{
+            "description":"chargeAmount",
+            "amount":"1.0",
+            "currency":"USD"
+         },
+         "chargingMetaData":{
+            "taxAmount":"0",
+            "mandateId":"1",
+            "serviceId":"256",
+            "productId":"0050000300004"
+         }
+      },
+      "transactionOperationStatus":"Charged",
+      "referenceCode":"REF-12345",
+      "clientCorrelator":""
+   }
 }
