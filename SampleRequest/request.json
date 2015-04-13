@@ -8,10 +8,7 @@
             "currency":"USD"
          },
          "chargingMetaData":{
-            "taxAmount":"0",
-            "mandateId":"1",
-            "serviceId":"256",
-            "productId":"0050000300004"
+            "taxAmount":"0"
          }
       },
       "transactionOperationStatus":"Charged",

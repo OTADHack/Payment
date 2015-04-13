@@ -11,15 +11,12 @@
             </description>
          </chargingInformation>
          <chargingMetaData>
-            <mandateId>1</mandateId>
-            <productId>0050000300004</productId>
-            <serviceId>256</serviceId>
             <taxAmount>0</taxAmount>
          </chargingMetaData>
          <totalAmountCharged>1.0</totalAmountCharged>
       </paymentAmount>
       <referenceCode>REF-12345</referenceCode>
-      <resourceURL>http://ocsg60.optaresolutions.com:8001/oneapi/1/payment/tel%3A1234/transactions/amount/172.31.24.79%3B1428915449%3B4-1428939051461</resourceURL>
+      <resourceURL>http://ocsg60.optaresolutions.com:8001/oneapi/1/payment/tel%3A1234/transactions/amount/172.31.24.79%3B1428915449%3B5-1428939902248</resourceURL>
       <transactionOperationStatus>Charged</transactionOperationStatus>
    </amountTransaction>
 </Response>
